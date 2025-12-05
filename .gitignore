@@ -23,5 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 .firebase
-DEVELOPMENT_GUIDE.md
-DEVELOPMENT_GUIDE.pdf
